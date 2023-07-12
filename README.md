@@ -3,7 +3,7 @@ To run the app, type in the terminal:
 **`streamlit run main_app.py`**
 
 
-**in this project: **
+**In this project:**
 - The dataset is cleaned (missing values, duplicated values, columns data types and outliers ).
 - An exploratory data analysis is done (both univariate and bivariate analysis).
 - GridSearchCV is used to train multiple regression algorithms, fine tune them and find the best algorithm for the project.
