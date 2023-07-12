@@ -9,7 +9,7 @@ with open('random_forest_model.pkl', 'rb') as file:
     model = pickle.load(file)
 
 df = pd.read_csv("./Cleaned.csv")
-X = pd.read_csv(".\X.csv")
+X = pd.read_csv("./X.csv")
 
 def get_results(input):
 
