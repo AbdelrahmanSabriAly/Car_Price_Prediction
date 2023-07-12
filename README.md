@@ -1,5 +1,5 @@
 # Car_Price_Prediction
-[Applink](https://carpriceprediction-zet1pwwrvrp.streamlit.app/).<br />
+Application link to try the app:     [App link](https://carpriceprediction-zet1pwwrvrp.streamlit.app/).<br />
 To run the app, type in the terminal:
 **`streamlit run main_app.py`**
 
