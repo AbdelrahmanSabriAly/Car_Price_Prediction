@@ -13,7 +13,7 @@ with open('random_forest_model.pkl', 'rb') as file:
     model = pickle.load(file)
 
 df = pd.read_csv("./Cleaned.csv")
-X = pd.read_csv("utils\X.csv")
+X = pd.read_csv("X.csv")
 st.set_page_config(page_title = "Car Price Prediction", page_icon=":car:",layout='wide')
 
 
