@@ -3,8 +3,8 @@ import numpy as np
 import pickle
 
 
-df = pd.read_csv("Cleaned.csv")
-X = pd.read_csv("X.csv")
+df = pd.read_csv("./Cleaned.csv")
+X = pd.read_csv("./X.csv")
 
 # Load the saved model from file
 with open('random_forest_model.pkl', 'rb') as file:
